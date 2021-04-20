@@ -2,7 +2,7 @@
 
 Project name: Decision Tree
 
-Description:
+Descripción:
 		Este programa genera un decision tree a partir de los datos que recibe por la entrada ye se encarga de mostrárselo al usuario. Una vez generado el arbol el usuario podrá interactuar con el sistema mediante la consola.
 		Entonces por cada atributo de agaricus-lepiota.data que envía el usuario, el sistema intentara hacer las predicciones para detectar de la clase del Mushroom. 
 
