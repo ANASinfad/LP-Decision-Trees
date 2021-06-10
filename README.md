@@ -7,10 +7,12 @@ Descripción:
 		Entonces por cada atributo de agaricus-lepiota.data que envía el usuario, el sistema intentara hacer las predicciones para detectar de la clase del Mushroom. 
 
 Instalación: 
-		1. Acceder a partir de la consola al directorio donde está el programa dts.hs
-		2. Escribir el comando ghc dts.hs para compilar y generar el ejecutable del programa 
+
+	1. Acceder a partir de la consola al directorio donde está el programa dts.hs
+	2. Escribir el comando ghc dts.hs para compilar y generar el ejecutable del programa 
 
 Uso:
+
 		1. Hacer click al ejecutable dts.exe o escribir dts.exe en la consola.
 		2. El programa mostrará el árbol que corresponde a la entrada (agaricus-lepiota.data)
 		3. El programa pedirá al usuario que introduzca un atributo para hacer las predicciones (los atributos solo pueden los que están en el fichero agaricus-lepiota.data. Ejemplo
